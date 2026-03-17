@@ -2,7 +2,7 @@
 
 esta é uma API simples desenvolvida com flask que recebe dois números e uma operação matemática e retorna o resultado em formato .json
 
-## endpoint
+##
 
 **GET** `/calcular`
 
@@ -13,7 +13,7 @@ esta é uma API simples desenvolvida com flask que recebe dois números e uma op
 | Obrigatório | sim; sim; sim
 | Descrição   | primeiro número; segundo número; operações (`soma`; `subtracao`; `multiplicacao`; `divisao`)
 
-## endpoint
+##
 
 **GET** `/calcular`
 
