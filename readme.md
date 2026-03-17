@@ -94,6 +94,8 @@ __pycache__/
 
 http://127.0.0.1:5000/calcular?a=10&b=5&operacao=soma
 
+##
+
 ### resposta exemplo (sucesso)
 
 ```json
@@ -107,3 +109,6 @@ http://127.0.0.1:5000/calcular?a=10&b=5&operacao=soma
 {
   "erro": "não é possível dividir por zero."
 }
+```
+
+##
