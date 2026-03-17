@@ -105,7 +105,12 @@ http://127.0.0.1:5000/calcular?a=10&b=5&operacao=soma
   "operacao": "soma",
   "resultado": 15
 }
+```
+##
 
+### resposta exemplo (erro)
+
+```json
 {
   "erro": "não é possível dividir por zero."
 }
