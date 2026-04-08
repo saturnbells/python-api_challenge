@@ -3,7 +3,6 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 def calcular(a, b, operacao):
-    """Executa a operação matemática e retorna o resultado."""
     if operacao == 'soma':
         return a + b
     elif operacao == 'subtracao':
